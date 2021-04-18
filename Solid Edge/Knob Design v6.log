@@ -1,0 +1,30 @@
+Solid Edge Translation to STL
+Date: Wednesday,February 24,2021 12:37PM
+Source File:C:\Users\edwar\Documents\Year 3\Project\Solid Edge\Knob Design v2.par
+Source System: SOLID EDGE
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+Operating System: Windows 10
+Installed Memory: 15.93 GB
+
+Software Information:
+Parasolid Version: 32.1.222
+PSBodyshop Version: 32.1.94
+Solid Edge Version: 221.00.00.114 x64
+
+STL Export Options:
+Output File Format:BINARY
+Export Displayed Parts:Off
+structureOption: Monolithic
+Export Units:Millimeter
+Export Tolerance Value:0.050000
+Export Tolerance Type:Custom
+Export Surface Plane Angle Value:0.523599
+
+Translation progress:
+Phase 1 of 2 Fetching Parasolid information...
+Phase 2 of 2 Translating Parasolid to foreign data types...
+Number of STL file Created : 1
+Translation process completed
+Time required to translate:00 : 00 : 00
